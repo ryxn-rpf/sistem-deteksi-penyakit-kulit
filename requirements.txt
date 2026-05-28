@@ -1,6 +1,0 @@
-streamlit
-experta
-matplotlib
-pillow
-numpy
-pandas
